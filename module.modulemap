@@ -1,0 +1,5 @@
+module CLibAVFilter [system] {
+  header "avfilter.h"
+  link "avfilter"
+  export *
+}
